@@ -1,7 +1,9 @@
-The Orange Night - Processing Dark Mode Theme
+![screenshot](https://github.com/LazyDkk/Processing-Dark-Theme-3.5.3/master/Screenshot.png)
+
+The Red Moon - Processing Dark Mode Theme
 ==============================================
 
-The Orange Night is a dark mode theme for the Processing IDE. The theme is made to be a little easier on the eyes with the more dark colors that it provides.
+The Red Moon is a dark mode theme for the Processing IDE. The theme is made to be a little easier on the eyes with the more dark colors that it provides.
 
 This theme was created for Processing 3.5.3 but it might work for other versions as well.
 

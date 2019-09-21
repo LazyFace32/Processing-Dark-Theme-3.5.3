@@ -1,4 +1,4 @@
-![screenshot](https://github.com/LazyDkk/Processing-Dark-Theme-3.5.3/master/screenshot.png)
+![screenshot](https://github.com/LazyDkk/Processing-Dark-Theme-3.5.3/blob/master/screenshot.png)
 
 The Red Moon - Processing Dark Mode Theme
 ==============================================

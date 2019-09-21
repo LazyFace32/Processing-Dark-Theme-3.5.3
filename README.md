@@ -19,3 +19,6 @@ Close Processing before replacing the old files or before making any changes to 
 
 **Windows:**
 Go to `/processing-3.5.3/modes/java/theme`
+
+
+If you end up using the theme but make slight changes to it, feel free to post them and maybe they'll be added to the official repository!

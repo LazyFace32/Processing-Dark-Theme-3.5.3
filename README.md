@@ -7,7 +7,7 @@ The Orange Night is a dark mode theme for the Processing IDE. The theme is made 
 
 This theme was created for Processing 3.5.3 but it might work for other versions as well.
 
-##Installation##
+##Installation
 
 It is adviced to take a backup of the original `theme.txt` file, `status` folder and `preferences.txt` file. This is if you're unhappy with the theme and wish to change back or if anything breaks. If these files are lost it is possibly to simply re-install the Processing IDE but do this at own risk.
 

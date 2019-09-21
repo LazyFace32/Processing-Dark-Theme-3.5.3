@@ -18,7 +18,7 @@ Close Processing before replacing the old files or before making any changes to 
 * Preferences.txt: Click on Processing > Preferences > Click on the link to the `preferences.txt` file in the bottom. This will redirect you to the folder where the `preferences.txt` file is stored. Now simply replace it with the one from the repository.
 
 **Windows:**
-* Theme.txt & Status: Go to `%HomeDrive%/processing64/processing-3.5.3/lib/` and replace the `theme.txt` file and `status` folder with the once from the repository.
+* Theme.txt & Status: Go to `\processing-3.5.3\lib` and replace the `theme.txt` file and `status` folder with the once from the repository.
 * Preferences.txt: Click on File > Preferences > Click on the link to the `preferences.txt` file in the bottom. This will redirect you to the folder where the `preferences.txt` file is stored. Now simply replace it with the one from the repository.
 
 

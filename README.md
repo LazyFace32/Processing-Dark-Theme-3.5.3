@@ -1,5 +1,3 @@
-# Processing-Dark-Theme-3.5.3
-
 The Orange Night - Processing Dark Mode Theme
 ==============================================
 

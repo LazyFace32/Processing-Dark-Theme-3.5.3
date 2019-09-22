@@ -9,7 +9,7 @@ This theme was created for Processing 3.5.3 but it might work for other versions
 
 ## Installation ##
 
-It is adviced to take a backup of the original `theme.txt` file, `status` folder and `preferences.txt` file. This is if you're unhappy with the theme and wish to change back or if anything breaks. If these files are lost it is possibly to simply re-install the Processing IDE but do this at own risk.
+It is advised to take a backup of the original `theme.txt` file, `status` folder and `preferences.txt` file. This is if you're unhappy with the theme and wish to change back or if anything breaks. If these files are lost it is possibly to simply re-install the Processing IDE but do this at own risk.
 
 Close Processing before replacing the old files or before making any changes to the files.
 

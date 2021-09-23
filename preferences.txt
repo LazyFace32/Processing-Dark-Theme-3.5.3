@@ -94,7 +94,6 @@ run.present.bgcolor=#666666
 run.present.stop.color=#cccccc
 run.window.bgcolor=#FFFFFF
 search.format=https://google.com/search?q=%s
-sketchbook.path.three=/Users/victor/Programmering/Processing
 update.check=true
 update.id=5457864411272586772
 update.last=1569086777778
